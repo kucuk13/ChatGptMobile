@@ -1,11 +1,11 @@
 import React, {useState} from 'react';
 import {Button, TextInput, View, Text} from 'react-native';
 import {Configuration, OpenAIApi} from 'openai';
+import {API_KEY} from './constants';
 
 const App = () => {
   const [input, setInput] = useState<string>('');
   const [response, setResponse] = useState<string>('');
-  const API_KEY = '***';
   const chat = new OpenAIApi(
     new Configuration({
       apiKey: API_KEY,
