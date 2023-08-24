@@ -13,4 +13,4 @@ npx react-native run-android <br />
 npx react-native run-ios
 
 ## Disk Problem Solution
-C:\Users\USER_NAME\.android\avd
+C:\Users\USER_NAME\\.android\avd
