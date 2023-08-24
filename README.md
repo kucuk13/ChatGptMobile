@@ -1,5 +1,7 @@
 # ChatGptMobile
 
+Android Studio -> Tools -> AVD Manager <br />
+
 ## Creating New Project
 
 cd react-native <br />
