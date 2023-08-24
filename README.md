@@ -2,10 +2,10 @@
 
 ## Creating New Project
 
-cd react-native &nbsp; 
+cd react-native <br />
 npx react-native init ChatGptMobile
 
 ## Running Project
 
-npx react-native run-android &nbsp; 
+npx react-native run-android <br />
 npx react-native run-ios
